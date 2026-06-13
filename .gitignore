@@ -1,0 +1,55 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+
+# Editors & IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.cache
+
+# Node / npm (if you ever add automation scripts)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python (if you add link checkers or scripts)
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.env
+
+# Ruby (Jekyll, etc. – if you later add a site)
+Gemfile.lock
+.bundle/
+
+# Misc
+*.orig
+*.rej
+*.sqlite
