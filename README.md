@@ -1,5 +1,6 @@
 # Awesome Silent Security (Noise‑Free) [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+![Cover Image](cover.png)
 > A curated collection of tools, techniques, and resources for mastering **stealth tradecraft** – moving, communicating, and persisting without creating noise in telemetry, logs, or detection stacks.
 
 **Silent security** is the art of operating below the radar. Whether you're a red teamer conducting a covert engagement, a purple teamer emulating a sophisticated adversary, or a defender trying to understand how the quietest threats evade your tools – this list is for you.
