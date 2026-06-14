@@ -35,7 +35,7 @@ If you have something awesome to contribute to this awesome list, this is how yo
 
 You'll need a [GitHub account](https://github.com/join)!
 
-1. Access the awesome list's GitHub page. For example: `https://github.com/YOUR_USERNAME/awesome-silent-security`
+1. Access the awesome list's GitHub page. For example: https://github.com/MOUKA-513/awesome-silent-security
 2. Click on the `README.md` file.  
    ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
 3. Now click on the edit icon (the pencil).  
